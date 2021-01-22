@@ -1,0 +1,28 @@
+{
+  "name": "cc-l",
+  "version": "1.0.0",
+  "description": "countries and cities lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MontherAmer/CCITYL.git"
+  },
+  "keywords": [
+    "country",
+    "city",
+    "list",
+    "phone",
+    "countries",
+    "cities",
+    "code"
+  ],
+  "author": "montheramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MontherAmer/CCITYL/issues"
+  },
+  "homepage": "https://github.com/MontherAmer/CCITYL#readme"
+}
