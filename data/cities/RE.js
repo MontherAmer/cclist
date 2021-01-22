@@ -1,1 +1,16 @@
-[{"name":"Saint-Denis","location":[-20.88231,55.4504],"timeZone":"Indian/Reunion"},{"name":"Saint-Paul","location":[-21.00961,55.27134],"timeZone":"Indian/Reunion"},{"name":"Saint-Pierre","location":[-21.3393,55.47811],"timeZone":"Indian/Reunion"},{"name":"Le Tampon","location":[-21.2766,55.51766],"timeZone":"Indian/Reunion"},{"name":"Saint-André","location":[-20.96333,55.65031],"timeZone":"Indian/Reunion"},{"name":"Saint-Louis","location":[-21.28585,55.41124],"timeZone":"Indian/Reunion"},{"name":"Le Port","location":[-20.93752,55.29415],"timeZone":"Indian/Reunion"},{"name":"Saint-Benoît","location":[-21.03795,55.71546],"timeZone":"Indian/Reunion"},{"name":"Saint-Joseph","location":[-21.3777,55.61691],"timeZone":"Indian/Reunion"},{"name":"Sainte-Marie","location":[-20.89686,55.55056],"timeZone":"Indian/Reunion"},{"name":"Piton Saint-Leu","location":[-21.21962,55.31513],"timeZone":"Indian/Reunion"},{"name":"Saint-Leu","location":[-21.17059,55.28824],"timeZone":"Indian/Reunion"},{"name":"La Possession","location":[-20.92909,55.3348],"timeZone":"Indian/Reunion"},{"name":"Sainte-Suzanne","location":[-20.90616,55.60788],"timeZone":"Indian/Reunion"}]
+exports.data = [
+  { name: 'Saint-Denis', location: [-20.88231, 55.4504], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-Paul', location: [-21.00961, 55.27134], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-Pierre', location: [-21.3393, 55.47811], timeZone: 'Indian/Reunion' },
+  { name: 'Le Tampon', location: [-21.2766, 55.51766], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-André', location: [-20.96333, 55.65031], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-Louis', location: [-21.28585, 55.41124], timeZone: 'Indian/Reunion' },
+  { name: 'Le Port', location: [-20.93752, 55.29415], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-Benoît', location: [-21.03795, 55.71546], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-Joseph', location: [-21.3777, 55.61691], timeZone: 'Indian/Reunion' },
+  { name: 'Sainte-Marie', location: [-20.89686, 55.55056], timeZone: 'Indian/Reunion' },
+  { name: 'Piton Saint-Leu', location: [-21.21962, 55.31513], timeZone: 'Indian/Reunion' },
+  { name: 'Saint-Leu', location: [-21.17059, 55.28824], timeZone: 'Indian/Reunion' },
+  { name: 'La Possession', location: [-20.92909, 55.3348], timeZone: 'Indian/Reunion' },
+  { name: 'Sainte-Suzanne', location: [-20.90616, 55.60788], timeZone: 'Indian/Reunion' },
+];

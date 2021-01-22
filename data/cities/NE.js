@@ -1,1 +1,20 @@
-[{"name":"Niamey","location":[13.51366,2.1098],"timeZone":"Africa/Niamey"},{"name":"Zinder","location":[13.80716,8.9881],"timeZone":"Africa/Niamey"},{"name":"Maradi","location":[13.5,7.10174],"timeZone":"Africa/Niamey"},{"name":"Agadez","location":[16.97333,7.99111],"timeZone":"Africa/Niamey"},{"name":"Alaghsas","location":[17.0187,8.0168],"timeZone":"Africa/Niamey"},{"name":"Tahoua","location":[14.8888,5.2692],"timeZone":"Africa/Niamey"},{"name":"Dosso","location":[13.049,3.1937],"timeZone":"Africa/Niamey"},{"name":"Birni N Konni","location":[13.79599,5.25026],"timeZone":"Africa/Niamey"},{"name":"Tessaoua","location":[13.75737,7.9874],"timeZone":"Africa/Niamey"},{"name":"Gaya","location":[11.88435,3.44919],"timeZone":"Africa/Niamey"},{"name":"Dogondoutchi","location":[13.6403,4.02649],"timeZone":"Africa/Niamey"},{"name":"Diffa","location":[13.31536,12.61135],"timeZone":"Africa/Niamey"},{"name":"Ayorou","location":[14.73075,0.91739],"timeZone":"Africa/Niamey"},{"name":"Madaoua","location":[14.073,5.96],"timeZone":"Africa/Niamey"},{"name":"Mayahi","location":[13.95532,7.67122],"timeZone":"Africa/Niamey"},{"name":"Téra","location":[14.00776,0.75306],"timeZone":"Africa/Niamey"},{"name":"Mirriah","location":[13.70727,9.15013],"timeZone":"Africa/Niamey"},{"name":"Tibiri","location":[13.56271,7.04848],"timeZone":"Africa/Niamey"}]
+exports.data = [
+  { name: 'Niamey', location: [13.51366, 2.1098], timeZone: 'Africa/Niamey' },
+  { name: 'Zinder', location: [13.80716, 8.9881], timeZone: 'Africa/Niamey' },
+  { name: 'Maradi', location: [13.5, 7.10174], timeZone: 'Africa/Niamey' },
+  { name: 'Agadez', location: [16.97333, 7.99111], timeZone: 'Africa/Niamey' },
+  { name: 'Alaghsas', location: [17.0187, 8.0168], timeZone: 'Africa/Niamey' },
+  { name: 'Tahoua', location: [14.8888, 5.2692], timeZone: 'Africa/Niamey' },
+  { name: 'Dosso', location: [13.049, 3.1937], timeZone: 'Africa/Niamey' },
+  { name: 'Birni N Konni', location: [13.79599, 5.25026], timeZone: 'Africa/Niamey' },
+  { name: 'Tessaoua', location: [13.75737, 7.9874], timeZone: 'Africa/Niamey' },
+  { name: 'Gaya', location: [11.88435, 3.44919], timeZone: 'Africa/Niamey' },
+  { name: 'Dogondoutchi', location: [13.6403, 4.02649], timeZone: 'Africa/Niamey' },
+  { name: 'Diffa', location: [13.31536, 12.61135], timeZone: 'Africa/Niamey' },
+  { name: 'Ayorou', location: [14.73075, 0.91739], timeZone: 'Africa/Niamey' },
+  { name: 'Madaoua', location: [14.073, 5.96], timeZone: 'Africa/Niamey' },
+  { name: 'Mayahi', location: [13.95532, 7.67122], timeZone: 'Africa/Niamey' },
+  { name: 'Téra', location: [14.00776, 0.75306], timeZone: 'Africa/Niamey' },
+  { name: 'Mirriah', location: [13.70727, 9.15013], timeZone: 'Africa/Niamey' },
+  { name: 'Tibiri', location: [13.56271, 7.04848], timeZone: 'Africa/Niamey' },
+];

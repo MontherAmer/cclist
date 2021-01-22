@@ -1,1 +1,16 @@
-[{"name":"Sarajevo","location":[43.84864,18.35644],"timeZone":"Europe/Sarajevo"},{"name":"Banja Luka","location":[44.77842,17.19386],"timeZone":"Europe/Sarajevo"},{"name":"Zenica","location":[44.20169,17.90397],"timeZone":"Europe/Sarajevo"},{"name":"Tuzla","location":[44.53842,18.66709],"timeZone":"Europe/Sarajevo"},{"name":"Mostar","location":[43.34333,17.80806],"timeZone":"Europe/Sarajevo"},{"name":"Bihać","location":[44.81694,15.87083],"timeZone":"Europe/Sarajevo"},{"name":"Bugojno","location":[44.05722,17.45083],"timeZone":"Europe/Sarajevo"},{"name":"Brčko","location":[44.86995,18.81012],"timeZone":"Europe/Sarajevo"},{"name":"Bijeljina","location":[44.75874,19.21437],"timeZone":"Europe/Sarajevo"},{"name":"Prijedor","location":[44.97991,16.71401],"timeZone":"Europe/Sarajevo"},{"name":"Trebinje","location":[42.71197,18.34362],"timeZone":"Europe/Sarajevo"},{"name":"Travnik","location":[44.22637,17.66583],"timeZone":"Europe/Sarajevo"},{"name":"Doboj","location":[44.73179,18.08698],"timeZone":"Europe/Sarajevo"},{"name":"Cazin","location":[44.96694,15.94306],"timeZone":"Europe/Sarajevo"}]
+exports.data = [
+  { name: 'Sarajevo', location: [43.84864, 18.35644], timeZone: 'Europe/Sarajevo' },
+  { name: 'Banja Luka', location: [44.77842, 17.19386], timeZone: 'Europe/Sarajevo' },
+  { name: 'Zenica', location: [44.20169, 17.90397], timeZone: 'Europe/Sarajevo' },
+  { name: 'Tuzla', location: [44.53842, 18.66709], timeZone: 'Europe/Sarajevo' },
+  { name: 'Mostar', location: [43.34333, 17.80806], timeZone: 'Europe/Sarajevo' },
+  { name: 'Bihać', location: [44.81694, 15.87083], timeZone: 'Europe/Sarajevo' },
+  { name: 'Bugojno', location: [44.05722, 17.45083], timeZone: 'Europe/Sarajevo' },
+  { name: 'Brčko', location: [44.86995, 18.81012], timeZone: 'Europe/Sarajevo' },
+  { name: 'Bijeljina', location: [44.75874, 19.21437], timeZone: 'Europe/Sarajevo' },
+  { name: 'Prijedor', location: [44.97991, 16.71401], timeZone: 'Europe/Sarajevo' },
+  { name: 'Trebinje', location: [42.71197, 18.34362], timeZone: 'Europe/Sarajevo' },
+  { name: 'Travnik', location: [44.22637, 17.66583], timeZone: 'Europe/Sarajevo' },
+  { name: 'Doboj', location: [44.73179, 18.08698], timeZone: 'Europe/Sarajevo' },
+  { name: 'Cazin', location: [44.96694, 15.94306], timeZone: 'Europe/Sarajevo' },
+];

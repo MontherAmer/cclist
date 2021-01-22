@@ -1,1 +1,17 @@
-[{"name":"Bishkek","location":[42.87,74.59],"timeZone":"Asia/Bishkek"},{"name":"Osh","location":[40.52828,72.7985],"timeZone":"Asia/Bishkek"},{"name":"Jalal-Abad","location":[40.93333,73],"timeZone":"Asia/Bishkek"},{"name":"Karakol","location":[42.49068,78.39362],"timeZone":"Asia/Bishkek"},{"name":"Tokmok","location":[42.84194,75.30149],"timeZone":"Asia/Bishkek"},{"name":"Kara-Balta","location":[42.81423,73.84813],"timeZone":"Asia/Bishkek"},{"name":"Naryn","location":[41.42866,75.99111],"timeZone":"Asia/Bishkek"},{"name":"Uzgen","location":[40.76994,73.30068],"timeZone":"Asia/Bishkek"},{"name":"Balykchy","location":[42.46017,76.18709],"timeZone":"Asia/Bishkek"},{"name":"Talas","location":[42.52277,72.24274],"timeZone":"Asia/Bishkek"},{"name":"Kyzyl-Kyya","location":[40.25684,72.12793],"timeZone":"Asia/Bishkek"},{"name":"Bazar-Korgon","location":[41.0376,72.74586],"timeZone":"Asia/Bishkek"},{"name":"Iradan","location":[40.26667,72.1],"timeZone":"Asia/Bishkek"},{"name":"Tash-Kumyr","location":[41.34612,72.21707],"timeZone":"Asia/Bishkek"},{"name":"Kant","location":[42.89106,74.85077],"timeZone":"Asia/Bishkek"}]
+exports.data = [
+  { name: 'Bishkek', location: [42.87, 74.59], timeZone: 'Asia/Bishkek' },
+  { name: 'Osh', location: [40.52828, 72.7985], timeZone: 'Asia/Bishkek' },
+  { name: 'Jalal-Abad', location: [40.93333, 73], timeZone: 'Asia/Bishkek' },
+  { name: 'Karakol', location: [42.49068, 78.39362], timeZone: 'Asia/Bishkek' },
+  { name: 'Tokmok', location: [42.84194, 75.30149], timeZone: 'Asia/Bishkek' },
+  { name: 'Kara-Balta', location: [42.81423, 73.84813], timeZone: 'Asia/Bishkek' },
+  { name: 'Naryn', location: [41.42866, 75.99111], timeZone: 'Asia/Bishkek' },
+  { name: 'Uzgen', location: [40.76994, 73.30068], timeZone: 'Asia/Bishkek' },
+  { name: 'Balykchy', location: [42.46017, 76.18709], timeZone: 'Asia/Bishkek' },
+  { name: 'Talas', location: [42.52277, 72.24274], timeZone: 'Asia/Bishkek' },
+  { name: 'Kyzyl-Kyya', location: [40.25684, 72.12793], timeZone: 'Asia/Bishkek' },
+  { name: 'Bazar-Korgon', location: [41.0376, 72.74586], timeZone: 'Asia/Bishkek' },
+  { name: 'Iradan', location: [40.26667, 72.1], timeZone: 'Asia/Bishkek' },
+  { name: 'Tash-Kumyr', location: [41.34612, 72.21707], timeZone: 'Asia/Bishkek' },
+  { name: 'Kant', location: [42.89106, 74.85077], timeZone: 'Asia/Bishkek' },
+];

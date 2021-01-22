@@ -1,1 +1,18 @@
-[{"name":"Camayenne","location":[9.535,-13.68778],"timeZone":"Africa/Conakry"},{"name":"Conakry","location":[9.53795,-13.67729],"timeZone":"Africa/Conakry"},{"name":"Nzérékoré","location":[7.75624,-8.8179],"timeZone":"Africa/Conakry"},{"name":"Kindia","location":[10.05692,-12.86576],"timeZone":"Africa/Conakry"},{"name":"Kankan","location":[10.38542,-9.30568],"timeZone":"Africa/Conakry"},{"name":"Gueckedou","location":[8.56744,-10.1336],"timeZone":"Africa/Conakry"},{"name":"Coyah","location":[9.70643,-13.38465],"timeZone":"Africa/Conakry"},{"name":"Labé","location":[11.31823,-12.28332],"timeZone":"Africa/Conakry"},{"name":"Kissidougou","location":[9.1848,-10.09987],"timeZone":"Africa/Conakry"},{"name":"Fria","location":[10.36676,-13.58253],"timeZone":"Africa/Conakry"},{"name":"Siguiri","location":[11.42282,-9.16852],"timeZone":"Africa/Conakry"},{"name":"Macenta","location":[8.54351,-9.47099],"timeZone":"Africa/Conakry"},{"name":"Mamou","location":[10.37546,-12.09148],"timeZone":"Africa/Conakry"},{"name":"Télimélé","location":[10.9,-13.03333],"timeZone":"Africa/Conakry"},{"name":"Tougué","location":[11.44503,-11.66422],"timeZone":"Africa/Conakry"},{"name":"Pita","location":[11.05915,-12.39498],"timeZone":"Africa/Conakry"}]
+exports.data = [
+  { name: 'Camayenne', location: [9.535, -13.68778], timeZone: 'Africa/Conakry' },
+  { name: 'Conakry', location: [9.53795, -13.67729], timeZone: 'Africa/Conakry' },
+  { name: 'Nzérékoré', location: [7.75624, -8.8179], timeZone: 'Africa/Conakry' },
+  { name: 'Kindia', location: [10.05692, -12.86576], timeZone: 'Africa/Conakry' },
+  { name: 'Kankan', location: [10.38542, -9.30568], timeZone: 'Africa/Conakry' },
+  { name: 'Gueckedou', location: [8.56744, -10.1336], timeZone: 'Africa/Conakry' },
+  { name: 'Coyah', location: [9.70643, -13.38465], timeZone: 'Africa/Conakry' },
+  { name: 'Labé', location: [11.31823, -12.28332], timeZone: 'Africa/Conakry' },
+  { name: 'Kissidougou', location: [9.1848, -10.09987], timeZone: 'Africa/Conakry' },
+  { name: 'Fria', location: [10.36676, -13.58253], timeZone: 'Africa/Conakry' },
+  { name: 'Siguiri', location: [11.42282, -9.16852], timeZone: 'Africa/Conakry' },
+  { name: 'Macenta', location: [8.54351, -9.47099], timeZone: 'Africa/Conakry' },
+  { name: 'Mamou', location: [10.37546, -12.09148], timeZone: 'Africa/Conakry' },
+  { name: 'Télimélé', location: [10.9, -13.03333], timeZone: 'Africa/Conakry' },
+  { name: 'Tougué', location: [11.44503, -11.66422], timeZone: 'Africa/Conakry' },
+  { name: 'Pita', location: [11.05915, -12.39498], timeZone: 'Africa/Conakry' },
+];

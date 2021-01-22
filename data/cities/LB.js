@@ -1,1 +1,15 @@
-[{"name":"Beirut","location":[33.89332,35.50157],"timeZone":"Asia/Beirut"},{"name":"Ra’s Bayrūt","location":[33.9,35.48333],"timeZone":"Asia/Beirut"},{"name":"Tripoli","location":[34.43352,35.84415],"timeZone":"Asia/Beirut"},{"name":"Sidon","location":[33.55751,35.37148],"timeZone":"Asia/Beirut"},{"name":"Tyre","location":[33.27333,35.19389],"timeZone":"Asia/Beirut"},{"name":"Nabatîyé et Tahta","location":[33.37889,35.48389],"timeZone":"Asia/Beirut"},{"name":"Habboûch","location":[33.40729,35.48169],"timeZone":"Asia/Beirut"},{"name":"Jounieh","location":[33.98083,35.61778],"timeZone":"Asia/Beirut"},{"name":"Zahlé","location":[33.84675,35.90203],"timeZone":"Asia/Beirut"},{"name":"Ghazieh","location":[33.5175,35.36889],"timeZone":"Asia/Beirut"},{"name":"Baalbek","location":[34.00583,36.21806],"timeZone":"Asia/Beirut"},{"name":"En Nâqoûra","location":[33.11806,35.13972],"timeZone":"Asia/Beirut"},{"name":"Jbaïl","location":[34.12111,35.64806],"timeZone":"Asia/Beirut"}]
+exports.data = [
+  { name: 'Beirut', location: [33.89332, 35.50157], timeZone: 'Asia/Beirut' },
+  { name: 'Ra’s Bayrūt', location: [33.9, 35.48333], timeZone: 'Asia/Beirut' },
+  { name: 'Tripoli', location: [34.43352, 35.84415], timeZone: 'Asia/Beirut' },
+  { name: 'Sidon', location: [33.55751, 35.37148], timeZone: 'Asia/Beirut' },
+  { name: 'Tyre', location: [33.27333, 35.19389], timeZone: 'Asia/Beirut' },
+  { name: 'Nabatîyé et Tahta', location: [33.37889, 35.48389], timeZone: 'Asia/Beirut' },
+  { name: 'Habboûch', location: [33.40729, 35.48169], timeZone: 'Asia/Beirut' },
+  { name: 'Jounieh', location: [33.98083, 35.61778], timeZone: 'Asia/Beirut' },
+  { name: 'Zahlé', location: [33.84675, 35.90203], timeZone: 'Asia/Beirut' },
+  { name: 'Ghazieh', location: [33.5175, 35.36889], timeZone: 'Asia/Beirut' },
+  { name: 'Baalbek', location: [34.00583, 36.21806], timeZone: 'Asia/Beirut' },
+  { name: 'En Nâqoûra', location: [33.11806, 35.13972], timeZone: 'Asia/Beirut' },
+  { name: 'Jbaïl', location: [34.12111, 35.64806], timeZone: 'Asia/Beirut' },
+];

@@ -1,1 +1,19 @@
-[{"name":"Bamako","location":[12.65,-8],"timeZone":"Africa/Bamako"},{"name":"Sikasso","location":[11.31755,-5.66654],"timeZone":"Africa/Bamako"},{"name":"Mopti","location":[14.4843,-4.18296],"timeZone":"Africa/Bamako"},{"name":"Koutiala","location":[12.39173,-5.46421],"timeZone":"Africa/Bamako"},{"name":"Ségou","location":[13.4317,-6.2157],"timeZone":"Africa/Bamako"},{"name":"Gao","location":[16.27167,-0.04472],"timeZone":"Africa/Bamako"},{"name":"Kayes","location":[14.44693,-11.44448],"timeZone":"Africa/Bamako"},{"name":"Markala","location":[13.7021,-6.0659],"timeZone":"Africa/Bamako"},{"name":"Kolokani","location":[13.5728,-8.0339],"timeZone":"Africa/Bamako"},{"name":"Kati","location":[12.74409,-8.07257],"timeZone":"Africa/Bamako"},{"name":"Bougouni","location":[11.41769,-7.48323],"timeZone":"Africa/Bamako"},{"name":"Timbuktu","location":[16.77348,-3.00742],"timeZone":"Africa/Bamako"},{"name":"Banamba","location":[13.54773,-7.44808],"timeZone":"Africa/Bamako"},{"name":"Bafoulabé","location":[13.8065,-10.8321],"timeZone":"Africa/Bamako"},{"name":"San","location":[13.30335,-4.89562],"timeZone":"Africa/Bamako"},{"name":"Koulikoro","location":[12.86273,-7.55985],"timeZone":"Africa/Bamako"},{"name":"Djénné","location":[13.90608,-4.55332],"timeZone":"Africa/Bamako"}]
+exports.data = [
+  { name: 'Bamako', location: [12.65, -8], timeZone: 'Africa/Bamako' },
+  { name: 'Sikasso', location: [11.31755, -5.66654], timeZone: 'Africa/Bamako' },
+  { name: 'Mopti', location: [14.4843, -4.18296], timeZone: 'Africa/Bamako' },
+  { name: 'Koutiala', location: [12.39173, -5.46421], timeZone: 'Africa/Bamako' },
+  { name: 'Ségou', location: [13.4317, -6.2157], timeZone: 'Africa/Bamako' },
+  { name: 'Gao', location: [16.27167, -0.04472], timeZone: 'Africa/Bamako' },
+  { name: 'Kayes', location: [14.44693, -11.44448], timeZone: 'Africa/Bamako' },
+  { name: 'Markala', location: [13.7021, -6.0659], timeZone: 'Africa/Bamako' },
+  { name: 'Kolokani', location: [13.5728, -8.0339], timeZone: 'Africa/Bamako' },
+  { name: 'Kati', location: [12.74409, -8.07257], timeZone: 'Africa/Bamako' },
+  { name: 'Bougouni', location: [11.41769, -7.48323], timeZone: 'Africa/Bamako' },
+  { name: 'Timbuktu', location: [16.77348, -3.00742], timeZone: 'Africa/Bamako' },
+  { name: 'Banamba', location: [13.54773, -7.44808], timeZone: 'Africa/Bamako' },
+  { name: 'Bafoulabé', location: [13.8065, -10.8321], timeZone: 'Africa/Bamako' },
+  { name: 'San', location: [13.30335, -4.89562], timeZone: 'Africa/Bamako' },
+  { name: 'Koulikoro', location: [12.86273, -7.55985], timeZone: 'Africa/Bamako' },
+  { name: 'Djénné', location: [13.90608, -4.55332], timeZone: 'Africa/Bamako' },
+];
