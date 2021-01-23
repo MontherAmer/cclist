@@ -1,5 +1,5 @@
-import { list } from './data/countries';
-import citiesList from './data/cities.json';
+const { list } = require('./data/countries');
+const citiesList = require('./data/cities.json');
 
 // * listCities function recive code (string of 2 char length) and options object(optional)
 // * return array of cities names
@@ -8,13 +8,12 @@ exports.listCities = (code, options = {}) => {
     if (!code || typeof code !== 'string') return Promise.reject('code value accept string only ');
 
     // * get data from the related module
-    // const { data } = require(`../data/cities/${code.toUpperCase()}.js`);
     let data = citiesList[code.toUpperCase()];
     // * map the data and return the city name
-    let list = data.map((item) => item.name);
+    let list = data.map((item) => item);
 
     // * return sub list
-    return list.splice(options?.skip || 0, options?.limit || 6000);
+    return list.splice(options.skip || 0, options.limit || 6000);
   } catch (err) {
     return err;
   }

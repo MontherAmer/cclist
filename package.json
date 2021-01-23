@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MontherAmer/CCITYL.git"
+    "url": "git+https://github.com/MontherAmer/cclist.git"
   },
   "keywords": [
     "country",
@@ -17,12 +17,13 @@
     "phone",
     "countries",
     "cities",
-    "code"
+    "code",
+    "digital_code"
   ],
   "author": "montheramer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MontherAmer/CCITYL/issues"
+    "url": "https://github.com/MontherAmer/cclist/issues"
   },
-  "homepage": "https://github.com/MontherAmer/CCITYL#readme"
+  "homepage": "https://github.com/MontherAmer/cclist#readme"
 }

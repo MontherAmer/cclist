@@ -1,4 +1,4 @@
-export const list = [
+exports.list = [
   { code: 'AD', name: 'Andorra', phone: '376', flag: '🇦🇩' },
   { code: 'AE', name: 'United Arab Emirates', phone: '971', flag: '🇦🇪' },
   { code: 'AF', name: 'Afghanistan', phone: '93', flag: '🇦🇫' },
