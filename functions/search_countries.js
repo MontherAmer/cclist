@@ -1,6 +1,6 @@
 const { list } = require('../data/countries');
 
-exports.search = (text, options = 'name') => {
+exports.searchCountries = (text, options = 'name') => {
   try {
     const keys = ['flag', 'phone', 'name', 'code'];
 

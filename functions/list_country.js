@@ -1,6 +1,6 @@
 const { list } = require('../data/countries');
 
-exports.countriesList = (options = 'name') => {
+exports.listCountries = (options = 'name') => {
   const keys = ['flag', 'phone', 'name', 'code'];
 
   // * convert options string to array
