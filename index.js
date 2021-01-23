@@ -1,5 +1,7 @@
-const { countriesList } = require('./functions/list');
+const { listCountries } = require('./functions/list_country');
 
-const { search } = require('./functions/search');
+const { searchCountries } = require('./functions/search_countries');
 
-module.exports = { countriesList, search };
+const { listCities } = require('./functions/list_cities');
+
+module.exports = { listCountries, searchCountries, listCities };
