@@ -1,39 +1,39 @@
-# CC-L
+# cclist
 
-cc-l package provide list of all countries with country code, name, flag and digital code. also list of cities in the country
+cclist package provide list of all countries with country code, name, flag and digital code. also list of cities in the country
 
 ## Installation
 
-`npm i cc-l`
-This assumes you are using npm as your package manager, if you are using yarn `yarn add cc-l`
+`npm i cclist`
+This assumes you are using npm as your package manager, if you are using yarn `yarn add cclist`
 
 ## Usage
 
 in Node
 
 ```
-const cll = require('cc-l');
+const cll = require('cclist');
 ```
 
 OR
 
 ```
-const { listCities, listCountries, searchCountries } =require('cc-l') ;
+const { listCities, listCountries, searchCountries } =require('cclist') ;
 ```
 
 In React
 
 ```
-import ccl from 'cc-l'
+import ccl from 'cclist'
 ```
 
 OR
 
 ```
-import { listCities, listCountries, searchCountries } from 'cc-l';
+import { listCities, listCountries, searchCountries } from 'cclist';
 ```
 
-### CC-L Functions:
+### cclist Functions:
 
 #### listCountries()
 
