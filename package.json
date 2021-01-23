@@ -1,6 +1,6 @@
 {
   "name": "cclist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "countries and cities lists",
   "main": "index.js",
   "scripts": {
