@@ -1,29 +1,55 @@
 {
-  "name": "cclist",
-  "version": "1.0.1",
-  "description": "countries and cities lists",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MontherAmer/cclist.git"
-  },
-  "keywords": [
-    "country",
-    "city",
-    "list",
-    "phone",
-    "countries",
-    "cities",
-    "code",
-    "digital_code"
-  ],
-  "author": "montheramer",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MontherAmer/cclist/issues"
-  },
-  "homepage": "https://github.com/MontherAmer/cclist#readme"
+	"name": "cclist",
+	"version": "1.1.0",
+	"description": "countries and cities lists",
+	"license": "ISC",
+	"main": "./src/index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MontherAmer/cclist.git"
+	},
+	"author": {
+		"name": "MontherAmer",
+		"url": "https://github.com/MontherAmer"
+	},
+	"type": "commonjs",
+	"exports": "./src/index.js",
+	"engines": {
+		"node": ">=12"
+	},
+	"scripts": {
+		"test": "nyc ava",
+		"lint": "xo"
+	},
+	"files": [
+		"src/"
+	],
+	"keywords": [
+		"country",
+		"city",
+		"list",
+		"phone",
+		"countries",
+		"cities",
+		"code",
+		"digital_code"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "3.15.0",
+		"codecov": "3.8.1",
+		"nyc": "15.1.0",
+		"xo": "0.37.1"
+	},
+	"nyc": {
+		"reporter": [
+			"text",
+			"lcov"
+		]
+	},
+	"ava": {
+		"files": [
+			"./tests/*.js"
+		]
+	}
 }
