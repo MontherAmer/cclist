@@ -23,7 +23,7 @@ exports.listCities = (code, options = {}) => {
 /* -------------------------------------------------------------------------- */
 
 exports.listCountries = (options = 'name') => {
-	const keys = new Set(['flag', 'phone', 'name', 'code']);
+	const keys = new Set(['flag', 'phone', 'name', 'code', 'capital', 'currency']);
 
 	// * Convert options string to array
 	const optionsArray = options.trim().split(' ');
@@ -48,7 +48,7 @@ exports.listCountries = (options = 'name') => {
 
 exports.searchCountries = (text, options = 'name') => {
 	try {
-		const keys = new Set(['flag', 'phone', 'name', 'code']);
+		const keys = new Set(['flag', 'phone', 'name', 'code', 'capital', 'currency']);
 
 		// * Convert options string to array
 		const optionsArray = options.trim().split(' ');
