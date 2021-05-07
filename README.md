@@ -2,6 +2,10 @@
 
 cclist package provide list of all countries with country code, name, flag and digital code. also list of cities in the country
 
+![https://img.shields.io/npm/dt/cclist?style=for-the-badge](https://img.shields.io/npm/dt/cclist?style=for-the-badge)
+![https://img.shields.io/npm/v/cclist?style=for-the-badge](https://img.shields.io/npm/v/cclist?style=for-the-badge)
+![Codecov](https://img.shields.io/codecov/c/github/MontherAmer/cclist?style=for-the-badge)
+
 ## Installation
 
 `npm i cclist`
